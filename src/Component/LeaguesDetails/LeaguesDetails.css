@@ -1,0 +1,32 @@
+.leagueLogo img{
+    
+    height: 100px;
+
+}
+.leagueLogo{
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.allLeagueDetail{
+    display: flex;
+    position: relative;
+    top: 20px;
+    padding: 20px;
+    background-color: #3A42FF;
+    color: white;
+
+}
+.leagueImg img{
+    height: 250px;
+}
+.description{
+    padding: 40px;
+}
+.leagueDetail {
+    text-align: left;
+    font-weight: 600;
+    padding-left: 50px;
+    padding-top: 25px;
+}

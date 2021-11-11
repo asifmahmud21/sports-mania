@@ -1,0 +1,16 @@
+
+.header-container{
+    text-align: center;
+    height: 200px;
+    color: white;
+    background-image: url(../../images/background.jpg);
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.leagues-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    background-color: rgb(6, 6, 75);
+}
